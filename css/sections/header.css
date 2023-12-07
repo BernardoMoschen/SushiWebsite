@@ -15,12 +15,12 @@
     position: absolute;
     inset: 0;
     width: 100%;
-    z-index: 1;
     background-color: var(--primary-color);
 }
 
 .header__logo h4 {
     padding-left: 30px;
+    z-index: 1;
     color: #ffff;
 }
 
